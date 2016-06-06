@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="backSettings">#64fdfdfd</color>
+    <color name="colorFAB1">#be65f7</color>
+    <color name="colorFAB2">#65f767</color>
+    <color name="colorFAB3">#4224ec</color>
+    <color name="disable">#fff3f3f3</color>
+    <color name="enable">#fff3f3f3</color>
+    <color name="red">#fffe6292</color>
+    <color name="blue">#0000ff</color>
+    <color name="btnRun">#d092f9</color>
+    <color name="green">#00ff00</color>
+    <color name="blue2">#ffac6ffc</color>
+    <color name="blue1">#ff36acf4</color>
+    <color name="windowBackground">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="btnColor">#303f9f</color>
+    <color name="txtColorOptions">#767676</color>
+    <color name="Black">#ff000000</color>
+    <color name="txtColor">#ff000000</color>
+    <color name="White">#ffffff</color>
+    <color name="notifColorEnabled">#2fc0d3</color>
+    <color name="notifColorDisable">#bfbfbf</color>
+
+
+</resources>

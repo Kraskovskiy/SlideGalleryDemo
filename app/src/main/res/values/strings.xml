@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Slide Gallery Demo</string>
+    <string name="action_settings">Настройки</string>
+    <string name="autoTextChange">Автоматическая смена картинок</string>
+    <string name="textInterval">Интервал в Cекундах</string>
+    <string name="textOnlyFavorites">Показывать только избранное</string>
+    <string name="shuffle">Перемешать</string>
+    <string name="animationType">Виды анимации</string>
+    <string name="favoritesError">Нет изображений добавленных в избранное</string>
+
+
+    <string-array name="typeOfTransition">
+        <item>Анимация "Волной"</item>
+        <item>Анимация "из глубины"</item>
+        <item>Анимация "зум"</item>
+        <item>Анимация "Наложение"</item>
+    </string-array>
+
+
+</resources>
+
